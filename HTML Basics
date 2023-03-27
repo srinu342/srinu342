@@ -1,6 +1,23 @@
-We're going to make our first website. It might not look great, but it'll work! To do this, we'll use a language called HTML.
-HTML doesn't actually do anything like a programming language does, but it's important because it helps us create the structure and content of our web pages.
-Think of it like English - we use it to write words and sentences, but we can't "run" it like a computer program.
-When we use HTML, we add special symbols or tags to our text to show how it should be displayed. 
-We call this "markup". Our web page will have content like text, images, and videos, which we'll add using HTML. 
-Finally, we call content that doesn't change or update "static".
+We're going to create our very first website! Although it may not look perfect, it will be functional.
+To accomplish this, we will use a language called HTML, which stands for HyperText Markup Language. 
+HTML may not function like a typical programming language, but it is important because it allows us to create the structure and content of our web pages. 
+Think of it like English, where we use words and sentences to communicate, but we can't execute it like a computer program. When we use HTML, we add special symbols or tags to our text to show how it should be displayed.
+We can use HTML to add various types of content to our web pages, including text, images, and videos.
+Strcutre of HTML Page:
+Every HTML page contains 2 parts:
+1. Head 
+2. Body
+Head contains meta data like Title of the page,keywords etc.
+CSS and JAVA script files information we have to specify in the Head part only
+Body contains actual content:
+1) <!doctype html>// to indicate that it is HTML page
+2) <html > 
+3) <head> 
+4) Meta Data like keywords,author,title...
+5)css files information 
+6) js files information
+7) </head>
+8) <body> 
+9)Actual Data
+10) </body> 
+11) </html>
