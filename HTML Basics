@@ -1,0 +1,6 @@
+We're going to make our first website. It might not look great, but it'll work! To do this, we'll use a language called HTML.
+HTML doesn't actually do anything like a programming language does, but it's important because it helps us create the structure and content of our web pages.
+Think of it like English - we use it to write words and sentences, but we can't "run" it like a computer program.
+When we use HTML, we add special symbols or tags to our text to show how it should be displayed. 
+We call this "markup". Our web page will have content like text, images, and videos, which we'll add using HTML. 
+Finally, we call content that doesn't change or update "static".
